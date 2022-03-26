@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* this is our figure which is the picture on the top */
 figure {
     height: 800px;
     width: 100%;
@@ -69,12 +69,13 @@ figure {
     margin-left: 25px;
 }
 
+/* in the main the elements are same for all 3 blocks so we can move it together */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* this is to set the part on the right  */
 aside {
     margin-right: 20px;
     padding: 20px;
